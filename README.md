@@ -62,6 +62,6 @@ RESTful CRUD application using Express.js and MongoDB demonstrating complete fro
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/MudassirKhushik/">
-  <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github" />
+<a href="https://github.com/MudassirKhushik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
