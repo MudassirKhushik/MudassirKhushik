@@ -36,13 +36,13 @@ RESTful CRUD application using Express.js and MongoDB demonstrating complete fro
 
 -System Design
 
--Authentication
+-Authentication & Authorization
 
 -Redis
 
 -Scalable Backend Architecture
 
--Open Source Contribution
+-Open Source Contributions
 
 ### Github Stats
 
